@@ -1,2 +1,2 @@
-# _Regression_
-Contains self implemented regression(linear) which can be extended to multiple and polynomial variations as well.
+# _Make_machine_learn_
+Contains self implemented supervised and unsupervised machine learning techniques.
